@@ -33,5 +33,5 @@ for(const letter of data.word){
     
 }
 
-console.log(letterCount);
+console.log(letterCount); 
 
